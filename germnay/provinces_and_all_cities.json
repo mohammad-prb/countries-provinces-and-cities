@@ -1,0 +1,294 @@
+[
+    {
+        "id": 1,
+        "name": "Baden-Württemberg",
+        "tel_prefix": "07",
+        "cities": [
+            "Stuttgart",
+            "Mannheim",
+            "Karlsruhe",
+            "Freiburg",
+            "Heidelberg",
+            "Ulm",
+            "Heilbronn",
+            "Pforzheim",
+            "Reutlingen",
+            "Esslingen",
+            "Tübingen",
+            "Ludwigsburg",
+            "Konstanz",
+            "Baden-Baden",
+            "Offenburg",
+            "Singen",
+            "Rastatt",
+            "Lörrach",
+            "Villingen-Schwenningen",
+            "Aalen"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bayern",
+        "tel_prefix": "089",
+        "cities": [
+            "München",
+            "Nürnberg",
+            "Augsburg",
+            "Regensburg",
+            "Würzburg",
+            "Ingolstadt",
+            "Fürth",
+            "Erlangen",
+            "Bayreuth",
+            "Bamberg",
+            "Aschaffenburg",
+            "Landshut",
+            "Kempten",
+            "Rosenheim",
+            "Passau",
+            "Schweinfurt",
+            "Straubing",
+            "Amberg",
+            "Freising",
+            "Dachau"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Berlin",
+        "tel_prefix": "030",
+        "cities": [
+            "Berlin-Mitte",
+            "Berlin-Charlottenburg-Wilmersdorf",
+            "Berlin-Friedrichshain-Kreuzberg",
+            "Berlin-Lichtenberg",
+            "Berlin-Marzahn-Hellersdorf",
+            "Berlin-Neukölln",
+            "Berlin-Pankow",
+            "Berlin-Reinickendorf",
+            "Berlin-Spandau",
+            "Berlin-Steglitz-Zehlendorf",
+            "Berlin-Tempelhof-Schöneberg",
+            "Berlin-Treptow-Köpenick"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Brandenburg",
+        "tel_prefix": "0331",
+        "cities": [
+            "Potsdam",
+            "Cottbus",
+            "Brandenburg an der Havel",
+            "Frankfurt (Oder)",
+            "Oranienburg",
+            "Falkensee",
+            "Bernau",
+            "Königs Wusterhausen",
+            "Schwedt",
+            "Eberswalde",
+            "Eisenhüttenstadt",
+            "Senftenberg",
+            "Strausberg",
+            "Neuruppin",
+            "Fürstenwalde",
+            "Guben",
+            "Spremberg",
+            "Rathenow",
+            "Prenzlau",
+            "Luckenwalde"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Bremen",
+        "tel_prefix": "0421",
+        "cities": [
+            "Bremen",
+            "Bremerhaven"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Hamburg",
+        "tel_prefix": "040",
+        "cities": [
+            "Hamburg"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Hessen",
+        "tel_prefix": "0611",
+        "cities": [
+            "Frankfurt am Main",
+            "Wiesbaden",
+            "Kassel",
+            "Darmstadt",
+            "Offenbach",
+            "Hanau",
+            "Marburg",
+            "Gießen",
+            "Fulda",
+            "Bad Homburg",
+            "Rüsselsheim",
+            "Wetzlar",
+            "Rodgau",
+            "Oberursel",
+            "Dreieich",
+            "Bensheim",
+            "Bad Hersfeld",
+            "Limburg",
+            "Langen",
+            "Mörfelden-Walldorf"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Mecklenburg-Vorpommern",
+        "tel_prefix": "038",
+        "cities": [
+            "Schwerin",
+            "Rostock",
+            "Neubrandenburg",
+            "Greifswald",
+            "Stralsund",
+            "Wismar",
+            "Güstrow",
+            "Waren",
+            "Parchim",
+            "Anklam"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Niedersachsen",
+        "tel_prefix": "0511",
+        "cities": [
+            "Hannover",
+            "Braunschweig",
+            "Osnabrück",
+            "Oldenburg",
+            "Wolfsburg",
+            "Göttingen",
+            "Hildesheim",
+            "Salzgitter",
+            "Lüneburg",
+            "Celle"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Nordrhein-Westfalen",
+        "tel_prefix": "0211",
+        "cities": [
+            "Düsseldorf",
+            "Köln",
+            "Dortmund",
+            "Essen",
+            "Duisburg",
+            "Bochum",
+            "Wuppertal",
+            "Bielefeld",
+            "Bonn",
+            "Münster"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Rheinland-Pfalz",
+        "tel_prefix": "06131",
+        "cities": [
+            "Mainz",
+            "Ludwigshafen",
+            "Koblenz",
+            "Trier",
+            "Kaiserslautern",
+            "Worms",
+            "Speyer",
+            "Neuwied",
+            "Bad Kreuznach",
+            "Idar-Oberstein"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Saarland",
+        "tel_prefix": "0681",
+        "cities": [
+            "Saarbrücken",
+            "Neunkirchen",
+            "Homburg",
+            "Völklingen",
+            "St. Ingbert"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Sachsen",
+        "tel_prefix": "0351",
+        "cities": [
+            "Dresden",
+            "Leipzig",
+            "Chemnitz",
+            "Zwickau",
+            "Görlitz",
+            "Freiberg",
+            "Plauen",
+            "Bautzen",
+            "Radebeul",
+            "Pirna"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Sachsen-Anhalt",
+        "tel_prefix": "0391",
+        "cities": [
+            "Magdeburg",
+            "Halle",
+            "Dessau-Roßlau",
+            "Wittenberg",
+            "Weißenfels",
+            "Naumburg",
+            "Stendal",
+            "Bernburg",
+            "Quedlinburg",
+            "Schönebeck"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Schleswig-Holstein",
+        "tel_prefix": "0431",
+        "cities": [
+            "Kiel",
+            "Lübeck",
+            "Flensburg",
+            "Neumünster",
+            "Norderstedt",
+            "Elmshorn",
+            "Pinneberg",
+            "Itzehoe",
+            "Wedel",
+            "Husum"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Thüringen",
+        "tel_prefix": "0361",
+        "cities": [
+            "Erfurt",
+            "Jena",
+            "Gera",
+            "Weimar",
+            "Eisenach",
+            "Suhl",
+            "Gotha",
+            "Nordhausen",
+            "Altenburg",
+            "Meiningen"
+        ]
+    }
+]
