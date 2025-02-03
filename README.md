@@ -11,17 +11,17 @@ This project provides data for provinces/states and cities of various countries 
 - Install the package using **npm**, **pip** or **composer**.
 
 ## Install
-install [**npm package**](https://github.com/mohammad-prb/provinces-and-cities-npm):
+Install [**npm package**](https://github.com/mohammad-prb/provinces-and-cities-npm):
 ```bash
 npm i provinces-and-cities
 ```
 
-install [**PyPI package**](https://github.com/mohammad-prb/provinces-and-cities-pypi):
+Install [**PyPI package**](https://github.com/mohammad-prb/provinces-and-cities-pypi):
 ```bash
 pip install provinces-and-cities
 ```
 
-install [**Composer package**](https://github.com/mohammad-prb/provinces-and-cities-composer):
+Install [**Composer package**](https://github.com/mohammad-prb/provinces-and-cities-composer):
 ```bash
 composer require mohammad-prb/provinces-and-cities-composer
 ```
